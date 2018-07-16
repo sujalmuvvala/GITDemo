@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>MySql Database</description>
+   <name>TestDB</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>861b54cb-1b6d-4cce-a421-545cfe7ee4f5</dataFileGUID>
+   <dataSourceUrl>jdbc:mysql://localhost:3306/demo</dataSourceUrl>
+   <driver>DBData</driver>
+   <isInternalPath>false</isInternalPath>
+   <password>U2FuZHlAMTQz</password>
+   <query>select * from testdata</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>bharatdb</user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

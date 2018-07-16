@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>35a2ec48-b48a-4370-b86b-fe046be8e777</testCaseGuid>
+   <variable>
+      <defaultValue>'abc@dbs.com'</defaultValue>
+      <description></description>
+      <id>d8c87aa8-9ccf-4c46-8799-cde88865e7dc</id>
+      <masked>false</masked>
+      <name>var_username</name>
+   </variable>
+   <variable>
+      <defaultValue>'abc123'</defaultValue>
+      <description></description>
+      <id>ea117cd2-51d4-4a1f-a2d8-a976d13e0feb</id>
+      <masked>false</masked>
+      <name>var_password</name>
+   </variable>
+   <variable>
+      <defaultValue>'small_Email Address is require'</defaultValue>
+      <description></description>
+      <id>93e72a39-8d66-40fb-9129-5222eb5e0a65</id>
+      <masked>false</masked>
+      <name>var_object</name>
+   </variable>
+   <variable>
+      <defaultValue>'Invalid username/password'</defaultValue>
+      <description></description>
+      <id>312b0a3f-c8d9-4640-bf94-767cfcb154e6</id>
+      <masked>false</masked>
+      <name>var_errormessage</name>
+   </variable>
+</TestCaseEntity>

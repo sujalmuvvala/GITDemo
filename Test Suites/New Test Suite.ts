@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>New Test Suite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <lastRun>2018-07-16T05:35:42</lastRun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>3f47d7f8-5211-421f-96ee-699f38321fb4</testSuiteGuid>
+   <testCaseLink>
+      <guid>13eb9cc9-db07-45bd-ab28-c73ed44c20c1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Common Tests/Login</testCaseId>
+      <testDataLink>
+         <combinationType>MANY</combinationType>
+         <id>ac127e72-530d-4274-bf99-30a65b96408f</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestDB</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>ac127e72-530d-4274-bf99-30a65b96408f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>d8c87aa8-9ccf-4c46-8799-cde88865e7dc</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ac127e72-530d-4274-bf99-30a65b96408f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>ea117cd2-51d4-4a1f-a2d8-a976d13e0feb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ac127e72-530d-4274-bf99-30a65b96408f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>object</value>
+         <variableId>93e72a39-8d66-40fb-9129-5222eb5e0a65</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ac127e72-530d-4274-bf99-30a65b96408f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>errormessage</value>
+         <variableId>312b0a3f-c8d9-4640-bf94-767cfcb154e6</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

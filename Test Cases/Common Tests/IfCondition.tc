@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>IfCondition</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7f239842-f8ed-4737-95a7-a6988a230c85</testCaseGuid>
+   <variable>
+      <defaultValue>'abc@dbs.com'</defaultValue>
+      <description></description>
+      <id>789fab96-0746-41ef-99f5-7c6956022f69</id>
+      <masked>false</masked>
+      <name>var_username</name>
+   </variable>
+   <variable>
+      <defaultValue>'abc123'</defaultValue>
+      <description></description>
+      <id>62b14fe9-fdf0-4935-a4e7-0ee9200912e2</id>
+      <masked>false</masked>
+      <name>var_password</name>
+   </variable>
+   <variable>
+      <defaultValue>'small_Email Address is require'</defaultValue>
+      <description></description>
+      <id>17886794-2973-4a35-8ea3-c451a114acd5</id>
+      <masked>false</masked>
+      <name>var_object</name>
+   </variable>
+   <variable>
+      <defaultValue>'Invalid username/password'</defaultValue>
+      <description></description>
+      <id>2ee55cd0-5ef0-4d7f-87f2-fb91a24f4aa8</id>
+      <masked>false</masked>
+      <name>var_errormessage</name>
+   </variable>
+</TestCaseEntity>
